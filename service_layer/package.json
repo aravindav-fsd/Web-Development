@@ -1,0 +1,14 @@
+{
+  "name": "learning-sl",
+  "version": "1.0.0",
+  "description": "service layer test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aravinda V",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
